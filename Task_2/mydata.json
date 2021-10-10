@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "shihab",
+        "lastName": "imran",
+        "age": "23",
+        "designation": "Project Lead",
+        "language": true,
+        "email": "shihab@gmail.com",
+        "password": "22778899"
+    },
+    {
+        "firstName": "shihab",
+        "lastName": "imran",
+        "age": "23",
+        "designation": "Project Lead",
+        "language": true,
+        "email": "shihab@gmail.com",
+        "password": "88779944"
+    }
+]
